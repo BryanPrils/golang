@@ -1,15 +1,17 @@
 package main
 
 import (
-	"example.com/hello"
-	"example.com/primitivedatatype"
+	//H "example.com/hello"
+	//P "example.com/primitivedatatype"
+	C "example.com/collections"
 )
 
 func main() {
-	hello.HelloWorld()
-	//primitivedatatype.Variables()
-	//primitivedatatype.Pointers()
-	//primitivedatatype.Address()
-	//primitivedatatype.Constants()
-	primitivedatatype.Iota()
+	//H.HelloWorld()
+	//P.Variables()
+	//P.Pointers()
+	//P.Address()
+	//P.Constants()
+	//P.Iota()
+	C.Arrays()
 }
