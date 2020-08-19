@@ -13,5 +13,8 @@ func main() {
 	//P.Address()
 	//P.Constants()
 	//P.Iota()
-	C.Arrays()
+	//C.Arrays()
+	//C.Slices()
+	//C.Maps()
+	C.Structs()
 }
